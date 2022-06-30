@@ -1,0 +1,16 @@
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\bin\Debug\net5.0\CalculatorRetangulo.exe
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\bin\Debug\net5.0\CalculatorRetangulo.deps.json
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\bin\Debug\net5.0\CalculatorRetangulo.runtimeconfig.json
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\bin\Debug\net5.0\CalculatorRetangulo.runtimeconfig.dev.json
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\bin\Debug\net5.0\CalculatorRetangulo.dll
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\bin\Debug\net5.0\CalculatorRetangulo.pdb
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\obj\Debug\net5.0\CalculatorRetangulo.csproj.AssemblyReference.cache
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\obj\Debug\net5.0\CalculatorRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\obj\Debug\net5.0\CalculatorRetangulo.AssemblyInfoInputs.cache
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\obj\Debug\net5.0\CalculatorRetangulo.AssemblyInfo.cs
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\obj\Debug\net5.0\CalculatorRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\obj\Debug\net5.0\CalculatorRetangulo.dll
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\obj\Debug\net5.0\refint\CalculatorRetangulo.dll
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\obj\Debug\net5.0\CalculatorRetangulo.pdb
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\obj\Debug\net5.0\CalculatorRetangulo.genruntimeconfig.cache
+C:\Users\geremias.bezerra\source\repos\CalculatorRetangulo\CalculatorRetangulo\obj\Debug\net5.0\ref\CalculatorRetangulo.dll
